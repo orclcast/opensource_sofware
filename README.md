@@ -5,3 +5,4 @@ lzo-2.02<br>
 mfs-1.6.27-5<br>
 openvpn-2.0.9<br>
 php-5.3.27<br>
+libiconv-1.14<br>
